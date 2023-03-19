@@ -1,3 +1,3 @@
 import member from "./member"
-
-export const schemaTypes = [member]
+import post from "./post"
+export const schemaTypes = [member, post]
